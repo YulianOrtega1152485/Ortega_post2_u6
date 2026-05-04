@@ -21,3 +21,9 @@ Se utilizó el comando `d ds:100` en DEBUG para visualizar el array y las variab
 Se utilizó el comando `t` para trazar la ejecución paso a paso y `r` para verificar los registros, observando el uso de SI como puntero y obteniendo AX=0055h (85 decimal).
 
 ![Checkpoint 2](Capturas/checkpoint2.png)
+
+## 3: Modo indexado
+
+Se ejecutó el programa completo con `g` y se verificó con `r` que la suma del array mediante direccionamiento indexado dio AX=0096h (150 decimal).
+
+![Checkpoint 3](capturas/checkpoint3.png)
