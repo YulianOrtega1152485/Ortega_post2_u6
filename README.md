@@ -26,4 +26,4 @@ Se utilizó el comando `t` para trazar la ejecución paso a paso y `r` para veri
 
 Se ejecutó el programa completo con `g` y se verificó con `r` que la suma del array mediante direccionamiento indexado dio AX=0096h (150 decimal).
 
-![Checkpoint 3](capturas/checkpoint3.png)
+![Checkpoint 3](Capturas/checkpoint3.png)
