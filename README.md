@@ -15,3 +15,9 @@ capturas/ → evidencias
 Se utilizó el comando `d ds:100` en DEBUG para visualizar el array y las variables en memoria, identificando los valores en formato hexadecimal.
 
 ![Checkpoint 1](Capturas/checkpoint1.png)
+
+## 2: Modo indirecto
+
+Se utilizó el comando `t` para trazar la ejecución paso a paso y `r` para verificar los registros, observando el uso de SI como puntero y obteniendo AX=0055h (85 decimal).
+
+![Checkpoint 2](Capturas/checkpoint2.png)
